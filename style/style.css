@@ -1,0 +1,13 @@
+h1{
+    color: rgb(227, 80, 22);
+}
+li{
+    font-size: 30px;
+    color: rgb(35, 216, 59);
+}
+.text-center{
+    text-align: center;
+}
+.large-text{
+    font-size: larger;
+}
